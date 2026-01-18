@@ -1,0 +1,104 @@
+{
+  "tiers": [
+    "Common",
+    "Rare",
+    "Epic"
+  ],
+  "adjectives": {
+    "Common": [
+      "Brave",
+      "Curious",
+      "Swift",
+      "Gentle",
+      "Cheerful",
+      "Sunny",
+      "Nimble",
+      "Sturdy",
+      "Mighty",
+      "Quiet",
+      "Playful",
+      "Loyal",
+      "Bold",
+      "Clever",
+      "Cozy",
+      "Wild",
+      "Bright",
+      "Fuzzy",
+      "Glowing",
+      "Daring"
+    ],
+    "Rare": [
+      "Arcane",
+      "Ethereal",
+      "Ironclad",
+      "Runic",
+      "Stormborn",
+      "Moonlit",
+      "Emberkissed",
+      "Frostbound",
+      "Starforged",
+      "Shadowtouched",
+      "Crystaline",
+      "Astral"
+    ],
+    "Epic": [
+      "Plonker",
+      "Mythic",
+      "Transcendent",
+      "Abyssal",
+      "Celestial",
+      "Timeless",
+      "Omniscient",
+      "Voidborne",
+      "Sun-Crowned"
+    ]
+  },
+  "nouns": {
+    "Common": [
+      "Mushroom",
+      "Lantern",
+      "Compass",
+      "Acorn",
+      "Pebble",
+      "Backpack",
+      "Clover",
+      "Kettle",
+      "Hammer",
+      "Feather",
+      "River",
+      "Pinecone",
+      "Telescope",
+      "Bucket",
+      "Berry",
+      "Sparrow",
+      "Gadget",
+      "Pumpkin",
+      "Candle",
+      "Boulder"
+    ],
+    "Rare": [
+      "Grimoire",
+      "Monolith",
+      "Aegis",
+      "Chronicle",
+      "Beacon",
+      "Relic",
+      "Golem",
+      "Sapphire",
+      "Totem",
+      "Sundial",
+      "Warden",
+      "Obelisk"
+    ],
+    "Epic": [
+      "Leviathan",
+      "Phoenix",
+      "Colossus",
+      "Infinity",
+      "Eclipse",
+      "Dragonheart",
+      "Worldseed",
+      "Archon"
+    ]
+  }
+}
