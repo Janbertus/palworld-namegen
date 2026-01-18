@@ -8,7 +8,8 @@
     "Common": [
       "Staring",
       "Glowing",
-      "Fuzzy",
+      "Fancy",
+      "Thirsty",
       "Hungry",
       "Yummy",
       "Funny"
@@ -16,27 +17,31 @@
     "Rare": [
       "Spikey",
       "Shiny",
-      "Fluffy"
+      "Fluffy",
+      "Dripping",
+      "3D"
     ],
     "Epic": [
       "Plonking",
       "Green-haired",
-      "Doughnut-kissed"
+      "Horny",
     ]
   },
   "nouns": {
     "Common": [
-      "Mushroom",
+      "Food",
       "Slave",
       "Pebble",
-      "Pumpkin",
+      "Snack",
       "Pal",
-      "Boulder"
+      "Pesant"
     ],
     "Rare": [
       "Monolith",
       "Tank",
-      "Pillow"
+      "Pillow",
+      "Ballgag",
+      "Blender"
     ],
     "Epic": [
       "Plonker",
@@ -48,3 +53,4 @@
   }
 
 }
+
