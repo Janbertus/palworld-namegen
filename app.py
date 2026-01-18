@@ -518,7 +518,7 @@ left, right = st.columns([1.3, 1])
 
 with left:
     st.subheader("🎰 Pull a Pal Name")
-    pull = st.button("✨ PULL THE LEVER", type="primary", use_container_width=True)
+    pull = st.button("PULL THE LEVER KRONK! ✨", type="primary", use_container_width=True)
 
     slot_idle = st.empty()
 
@@ -658,3 +658,4 @@ with right:
                         st.rerun()
                 else:
                     st.warning("Pick a tier to remove.")
+
