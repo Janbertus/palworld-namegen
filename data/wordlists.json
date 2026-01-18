@@ -6,99 +6,45 @@
   ],
   "adjectives": {
     "Common": [
-      "Brave",
-      "Curious",
-      "Swift",
-      "Gentle",
-      "Cheerful",
-      "Sunny",
-      "Nimble",
-      "Sturdy",
-      "Mighty",
-      "Quiet",
-      "Playful",
-      "Loyal",
-      "Bold",
-      "Clever",
-      "Cozy",
-      "Wild",
-      "Bright",
-      "Fuzzy",
+      "Staring",
       "Glowing",
-      "Daring"
+      "Fuzzy",
+      "Hungry",
+      "Yummy",
+      "Funny"
     ],
     "Rare": [
-      "Arcane",
-      "Ethereal",
-      "Ironclad",
-      "Runic",
-      "Stormborn",
-      "Moonlit",
-      "Emberkissed",
-      "Frostbound",
-      "Starforged",
-      "Shadowtouched",
-      "Crystaline",
-      "Astral"
+      "Spikey",
+      "Shiny",
+      "Fluffy"
     ],
     "Epic": [
-      "Plonker",
-      "Mythic",
-      "Transcendent",
-      "Abyssal",
-      "Celestial",
-      "Timeless",
-      "Omniscient",
-      "Voidborne",
-      "Sun-Crowned"
+      "Plonking",
+      "Green-haired",
+      "Doughnut-kissed"
     ]
   },
   "nouns": {
     "Common": [
       "Mushroom",
-      "Lantern",
-      "Compass",
-      "Acorn",
+      "Slave",
       "Pebble",
-      "Backpack",
-      "Clover",
-      "Kettle",
-      "Hammer",
-      "Feather",
-      "River",
-      "Pinecone",
-      "Telescope",
-      "Bucket",
-      "Berry",
-      "Sparrow",
-      "Gadget",
       "Pumpkin",
-      "Candle",
+      "Pal",
       "Boulder"
     ],
     "Rare": [
-      "Grimoire",
       "Monolith",
-      "Aegis",
-      "Chronicle",
-      "Beacon",
-      "Relic",
-      "Golem",
-      "Sapphire",
-      "Totem",
-      "Sundial",
-      "Warden",
-      "Obelisk"
+      "Tank",
+      "Pillow"
     ],
     "Epic": [
-      "Leviathan",
-      "Phoenix",
-      "Colossus",
-      "Infinity",
-      "Eclipse",
-      "Dragonheart",
-      "Worldseed",
-      "Archon"
+      "Plonker",
+      "Doughnut",
+      "Enya",
+      "Jan",
+      "Spike"
     ]
   }
+
 }
