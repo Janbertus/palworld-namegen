@@ -12,6 +12,7 @@
       "Thirsty",
       "Hungry",
       "Yummy",
+      "Stinky",
       "Funny"
     ],
     "Rare": [
@@ -57,6 +58,7 @@
   }
 
 }
+
 
 
 
